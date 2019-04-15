@@ -1,0 +1,12 @@
+/Users/mamama/Documents/gb/garden-db/gardenBox/gardenBox/bin/Debug/gardenBox.exe
+/Users/mamama/Documents/gb/garden-db/gardenBox/gardenBox/bin/Debug/gardenBox.pdb
+/Users/mamama/Documents/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.csproj.CoreCompileInputs.cache
+/Users/mamama/Documents/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.exe
+/Users/mamama/Documents/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.pdb
+/Users/mamama/academy/gb/garden-db/gardenBox/gardenBox/bin/Debug/gardenBox.exe
+/Users/mamama/academy/gb/garden-db/gardenBox/gardenBox/bin/Debug/gardenBox.pdb
+/Users/mamama/academy/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.csprojAssemblyReference.cache
+/Users/mamama/academy/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.csproj.CoreCompileInputs.cache
+/Users/mamama/academy/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.exe
+/Users/mamama/academy/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.pdb
+/Users/mamama/Documents/gb/garden-db/gardenBox/gardenBox/obj/x86/Debug/gardenBox.csprojAssemblyReference.cache
